@@ -37,7 +37,8 @@ data.molten : This contains the melted data set where columns are converted to r
 
 data.tidy : This is the summarised (dcast) data set which contains the mean or average observation grouped by for each activity type and corresponding subject.
 
-The data.tidy data frame contains the following variables with their corresponding data types and example data:
+####The data.tidy data frame contains the following variables with their corresponding data types and example data:
+
  $ activity                       : Factor w/ 6 levels "LAYING","SITTING",..: 1 1 1 1 1 1 1 1 1 1 ...
  
  $ subject                        : int  1 2 3 4 5 6 7 8 9 10 ...
