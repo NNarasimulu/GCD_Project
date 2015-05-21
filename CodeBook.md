@@ -1,9 +1,9 @@
 #CodeBook.md
 Author: N Narasimulu
 This code book  describes the variables, the data, and any transformations or work that was performed to clean up the data.
+#--------------------------------------------------------------
+# Getting and Cleaning Data Project Variables
 
-#--- Getting and Cleaning Data Project
-# Variables
 colNames : features.txt contains the column names for the test and train data sets. Read in the columns names to apply to the test and train data sets
 activity : activity_labels.txt contains the description of the different activities.  This data is stored in the activity variable.
 
