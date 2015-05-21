@@ -1,2 +1,3 @@
 # GCD_Project
-test
+This documents explains how the scripts work to transform the data sets into a "tidy" data set.
+
