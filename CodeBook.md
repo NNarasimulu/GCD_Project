@@ -1,2 +1,2 @@
 #CodeBook.md
-This is the code book which explains the data
+This code book  describes the variables, the data, and any transformations or work that was performed to clean up the data.
