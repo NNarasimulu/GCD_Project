@@ -87,5 +87,5 @@ data.molten <- melt(data.mean_std, id = c("activity","subject"))
 data.tidy <- dcast(data.molten, activity + subject ~ variable, mean)
 str(data.tidy)
 
- # Output data.tidy to a text file.
+ # Output data.tidy to a text file
 write.table(data.tidy, file="UCIHAR_Tidy_Dataset.txt", sep = ",", row.name=FALSE)
